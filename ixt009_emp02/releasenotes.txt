@@ -1,0 +1,103 @@
+$Id: releasenotes.txt 369 2009-03-01 09:55:31Z algalochkin $
+
+IXThemes theme release notes
+==================================
+
+Please see the full changelog for details in changelog.txt.
+
+
+The Theme is compatible with CMS
+==================================
+
+ImpressCMS
+		Releases: impresscms 1.0, impresscms 1.1, impresscms 1.1.1, impresscms 1.1.2
+XOOPS 
+		Releases: xoops 2.0.18, xoops 2.3.0, xoops 2.3.1, xoops 2.3.2, xoops 2.3.3
+
+
+Some features of a Theme by IXThemes
+==================================
+
+New system blocks templates:
+------------------------
+- Language Selection
+- Search
+- Login
+- User Menu
+- Main Menu
+- Waiting Contents
+- Site Info
+- Who's Online
+- Themes
+- Top Posters
+- New Members
+
+The Theme is already tested on browsers:
+------------------------
+- Firefox 3.0.6
+- Internet Explorer 7,8b2
+- Opera 9.63
+- Google Chrome 1.0.154.36
+- Safari 3.2 (for Windows)
+
+The Theme is already tested at screen resolution:
+------------------------
+- 1024x768 px
+- 1280x800 px
+- 1280x1024 px
+
+
+Downloading theme by IXThemes
+==================================
+
+All releases can be downloaded here: 
+http://sourceforge.net/project/showfiles.php?group_id=247341
+
+
+Checking out IXThemes files from the SVN
+==================================
+
+You can easily get IXThemes files using SVN. Instructions about this can be found here:
+http://sourceforge.net/svn/?group_id=247341
+
+The path for this release is the following:
+https://ixthemes.svn.sourceforge.net/svnroot/ixthemes/themes/ixt<collection id>/tags/ixt<collection id>_<theme name>_<release number>/ixt<collection id>_<theme subname>/
+
+If you feel like getting the latest "edge" version, you can checkout the theme branch at :
+https://ixthemes.svn.sourceforge.net/svnroot/ixthemes/themes/ixt<collection id>/branches/ixt<collection id>_<theme name>/ixt<collection id>_<theme subname>/
+
+The IXThemes branch is always the latest as-stable-as-possible development code. It is, of course, not to be used on production sites.
+
+
+Installing theme by IXThemes
+==================================
+
+	1. Get the theme package from the sourceforge file repository
+	2. Unpack a theme as usually for ImpressCMS or XOOPS in the directory /themes on your webserver
+	3. Make necessary settings in CMS resolving to use this theme
+	4. Enjoy!
+
+
+Where to find more information ?
+==================================
+
+The IXThemes Network
+------------------------
+Sourceforge Project: http://www.sourceforge.net/projects/ixthemes
+Home of IXThemes: http://ixthemes.sourceforge.net
+
+IXThemes Mailing Lists
+------------------------
+
+A few mailing lists are available for everyone to stay informed regarding development information, bug tracking, feature requests, etc...
+Simply go here to subscribe to the desired mailing lists: http://sourceforge.net/mail/?group_id=247341
+
+IXThemes Related Sites
+------------------------
+Ohloh project: http://www.ohloh.net/p/ixthemes
+
+
+==================================
+The IXThemes Project
+http://ixthemes.sourceforge.net
+
